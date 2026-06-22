@@ -1,1 +1,1 @@
-# bug-reports
+This repository is created for practicing bug reporting using GitHub Issues and GitHub Projects. The main goal is to improve QA skills, learn how to structure clear and professional bug reports, and practice writing them in English.
